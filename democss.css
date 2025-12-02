@@ -1,8 +1,17 @@
 .one{
-    background-color: rgb(118, 225, 233);
+    background-color: rgb(204, 241, 244);
     color: darkblue;
 }
 .second{
-    background-color: blanchedalmond;
-    color: rgba(89, 0, 255, 0.925);
+    background-color: rgb(229, 245, 245);
+    color: rgba(221, 121, 200, 0.925);
+}
+h1,h2{
+    color: blueviolet;
+}
+#para{
+    background-color: rgb(185, 166, 202);
+}
+.word{
+    color: aqua;
 }
